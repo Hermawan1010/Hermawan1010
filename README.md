@@ -2,7 +2,6 @@
 - <h1 align="center">Hi 👋, I'm Hermawan</h1>
 <h3 align="center">A passionate Data analysis and Front End Developer from Indonesia</h3>
 <div align="center"> <img src="https://raw.githubusercontent.com/hermawan1010/hermawan1010/main/banner.png"> </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hermawan1010&label=Profile%20views&color=0e75b6&style=flat" alt="hermawan1010" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hermawan1010/hermawan1010/gambar.gif">
 
 - 🌱 I’m currently learning **UX from coursera**
