@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Hermawan</h1>
+<h3 align="center">A passionate Data analysis and Front End Developer from Indonesia</h3>
+
+- 🌱 I’m currently learning **UX from coursera**
+
+- 💬 Ask me about **games , footbal**
+
