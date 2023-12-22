@@ -2,11 +2,13 @@
 - <h1 align="center">Hi 👋, I'm Hermawan</h1>
 <h3 align="center">A passionate Data analysis and Front End Developer from Indonesia</h3>
 <div align="center"> <img src="https://raw.githubusercontent.com/hermawan1010/hermawan1010/main/banner.png"> </div>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hermawan1010/hermawan1010/gambar.gif">
+
 
 - 🌱 I’m currently learning **UX from coursera**
 
 - 💬 Ask me about **games , footbal**
+
+  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hermawan1010/hermawan1010/gambar.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
